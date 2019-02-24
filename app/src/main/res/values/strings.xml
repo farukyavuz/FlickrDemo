@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Flickr Demo</string>
+    <string name="error_empty_data">Empty Data</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="views">%1$s views</string>
+
+    <string name="transition_image">transition_image</string>
+    <string name="transition_image_user">transition_image_user</string>
+    <string name="transition_ownername">transition_owner</string>
+    <string name="transition_title">transition_title</string>
+
+    <string name="comment">Comment</string>
+</resources>
